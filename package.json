@@ -1,0 +1,15 @@
+{
+  "name": "madinajon-portfolio",
+  "version": "1.0.0",
+  "description": "Luxurious portfolio website for Madinajon",
+  "private": true,
+  "scripts": {
+    "start": "serve -s ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  },
+  "devDependencies": {},
+  "author": "Madinajon",
+  "license": "UNLICENSED"
+} 
